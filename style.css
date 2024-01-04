@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    display: flex;
+    height: fit-content;
+    font-weight: bold;
+}
+
+#page_discription {
+    margin: auto 1ch;
+    vertical-align: middle;
+}
